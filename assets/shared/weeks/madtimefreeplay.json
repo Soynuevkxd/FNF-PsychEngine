@@ -1,0 +1,25 @@
+{
+	"songs": [
+		["Hallucinations", "paps", [174, 14, 14]],
+		["Last Hope", "chara", [175, 0, 30]],
+		["Reality Check", "sansw", [153, 153, 153]],
+		["Wounded Shooting", "pico", [183, 216, 85]],
+		["Thanatophobia", "sansl", [153, 153, 153]],
+	],
+
+	"weekCharacters": [
+		"bf_dust",
+		"sans",
+		"soul"
+	],
+	"weekBackground": "Dust!Story",
+
+	"storyName": "Sans has finally lost it...",
+	"weekBefore": "madtime",
+	"weekName": "Week Mad",
+	"startUnlocked": true,
+	"difficulties": "Bad-Time",
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

@@ -1,0 +1,26 @@
+{
+	"songs": [
+		["The Murderer", "sansl", [153, 153, 153]],
+		["Red Megalovania", "sansl", [153, 153, 153]],
+		["Drowning", "sansl", [153, 153, 153]],
+		["Psychotic Breakdown", "sans", [153, 153, 153]],
+		["DIE", "sans", [153, 153, 153]],
+		["Anthropophobia", "sansw", [153, 153, 153]]
+	],
+
+	"weekCharacters": [
+		"bf_dust",
+		"sans",
+		"soul"
+	],
+	"weekBackground": "Dust!Story",
+
+	"storyName": "Sans has finally lost it...",
+	"weekBefore": "tutorial",
+	"weekName": "Week Mad",
+	"startUnlocked": true,
+	"difficulties": "Bad-Time",
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
