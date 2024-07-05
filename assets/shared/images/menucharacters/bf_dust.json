@@ -1,0 +1,10 @@
+{
+	"idle_anim": "BF_normal",
+	"image": "bf_dust",
+	"position": [
+		-650,
+		-125
+	],
+	"scale": 1,
+	"confirm_anim": "bf_chara"
+}

@@ -1,0 +1,10 @@
+{
+	"idle_anim": "soul",
+	"image": "soul",
+	"position": [
+		1025,
+		-100
+	],
+	"scale": 1,
+	"confirm_anim": "Imao"
+}
